@@ -1,0 +1,15 @@
+body {
+	height: 500px;
+}
+.p {
+	color: black
+}
+.box {
+	background-color: black;
+	color: #000;
+	width: 360px;
+	height: 20px;
+}
+.box_in {
+	color: white;
+}
